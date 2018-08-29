@@ -1,2 +1,2 @@
-# Dex
+# Boss Exchange
 Decentralized Exchange 
